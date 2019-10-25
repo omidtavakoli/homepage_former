@@ -1,6 +1,6 @@
 +++
 date = "2019-01-17"
-title = "Hugo coder wiki"
+title = "Dummy"
 slug = "hugo-coder-wiki"
 tags = [
     "hugo",

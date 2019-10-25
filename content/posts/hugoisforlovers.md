@@ -1,6 +1,6 @@
 +++
 date = "2014-04-02"
-title = "Getting Started with Hugo"
+title = "Dummy"
 tags = [
     "go",
     "golang",
