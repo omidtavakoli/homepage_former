@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "omidtavakoli.github.io/homepage"
 title = "Omid Tavakoli"
 
 theme = "hugo-coder"
