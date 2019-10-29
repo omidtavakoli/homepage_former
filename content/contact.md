@@ -3,4 +3,4 @@ title = "Contact"
 slug = "contact"
 +++
 
-omidtavakoli.info[a]gmail.com
+[firstname][lastname].info at gmail.com

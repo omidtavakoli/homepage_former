@@ -20,10 +20,10 @@ disqusShortname = "yourdiscussshortname"
     author = "Omid Tavakoli"
     description = "Omid Tavakoli personal blog."
     keywords = "blog,developer,personal"
-    info = "Software Engineer, MBA, Investor "
+    info = "Software Engineer | MBA"
     avatarurl = "avatar.jpg"
     qrcodeurl="qrcode.png"
-    footercontent = "Fake it till you make it."
+    footercontent = "Making values in the world leveraging Software and Investment"
 
 
     dateformat = "January 2, 2006"
@@ -107,7 +107,7 @@ disqusShortname = "yourdiscussshortname"
 
             [[languages.en.menu.main]]
             name = "Contact me"
-            weight = 5
+            weight = 4
             url = "contact/"
 
 

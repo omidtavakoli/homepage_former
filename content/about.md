@@ -3,27 +3,15 @@ title = "About Omid"
 slug = "about"
 +++
 
-This is **Omid**, Experienced software engineer who is interested in investment and business.
+This is **Omid**, experienced software engineer who is interested in investment and business. A happy software engineer who enjoys solving real-world problems using codes, investment and strategies. I graduated from [computer engineering department](https://ceit.aut.ac.ir) at [Amirkabir university](https://aut.ac.ir/en) of technology in Iran. After 5 years of experience in developing software, I wanted to use my skills in business then started studying MBA at [Bahar School of Management](https://www.linkedin.com/company/bahar-school-of-business/about/). 
 
 
-It makes use of a variety of open source projects including:
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+## My main interests are:
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+* Software Engineering
+* Investment & Finance
+* Business Strategy
 
-## Setup
 
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+Don't hesitate to let me know if you are interested in my world.
