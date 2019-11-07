@@ -1,10 +1,15 @@
 +++ 
-date = "2019-09-28"
-title = "Who is Software Engineer (dummy)"
+date = "2019-10-29"
+title = "Who is Software Engineer"
 slug = "who-is-software-engineer" 
-tags = []
-categories = []
-series = ["Theme", "Hugo"]
+tags = [
+  "software",
+  "development"
+]
+series = ["Terms", "SE"]
+categories = [
+    "Software"
+]
 +++
 
 ## Introduction

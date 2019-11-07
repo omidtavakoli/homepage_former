@@ -20,11 +20,10 @@ disqusShortname = "yourdiscussshortname"
     author = "Omid Tavakoli"
     description = "Omid Tavakoli personal blog."
     keywords = "blog,developer,personal"
-    info = "Software Engineer | MBA"
+    info = "Software Engineer & Investor"
     avatarurl = "avatar.jpg"
     qrcodeurl="qrcode.png"
     footercontent = "Making values in the world leveraging Software and Investment"
-
 
     dateformat = "January 2, 2006"
 
@@ -67,7 +66,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Twitter"
     icon = "fab fa-twitter"
     weight = 3
-    url = "https://twitter.com/omidtavakoli.pro/"
+    url = "https://twitter.com/omidtavakolipro/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
@@ -95,10 +94,10 @@ disqusShortname = "yourdiscussshortname"
             weight = 1
             url = "about/"
 
-            [[languages.en.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "posts/"
+            # [[languages.en.menu.main]]
+            # name = "Blog"
+            # weight = 2
+            # url = "posts/"
 
             [[languages.en.menu.main]]
             name = "Projects"
@@ -106,8 +105,13 @@ disqusShortname = "yourdiscussshortname"
             url = "projects/"
 
             [[languages.en.menu.main]]
-            name = "Contact me"
+            name = "Resume"
             weight = 4
+            url = "/omidtavakoli.pdf"
+
+            [[languages.en.menu.main]]
+            name = "Contact me"
+            weight = 5
             url = "contact/"
 
 
@@ -118,29 +122,29 @@ disqusShortname = "yourdiscussshortname"
         [languages.pt-br.params]
             author = "امید توکلی"
             rtl = true
-            info = "مهندس نرم‌افزار، فعال در حوزه سرمایه گذاری و کسب و کار"
+            info = "مهندس نرم‌افزار و سرمایه گذاری"
             description = "صفحه شخصی امید توکلی"
-            keywords = "وبلاگ,سرمایه‌گذاری,کسب و کار"
+            keywords = "وبلاگ,سرمایه‌گذاری,امید توکلی"
             footercontent = "صفحه شخصی امید توکلی"
 
-        [languages.pt-br.menu]
+        # [languages.pt-br.menu]
 
-            [[languages.pt-br.menu.main]]
-            name = "درباره من"
-            weight = 1
-            url = "درباره-من/"
+        #     [[languages.pt-br.menu.main]]
+        #     name = "درباره من"
+        #     weight = 1
+        #     url = "درباره-من/"
 
-            [[languages.pt-br.menu.main]]
-            name = "بلاگ"
-            weight = 2
-            url = "بلاگ/"
+        #     # [[languages.pt-br.menu.main]]
+        #     # name = "بلاگ"
+        #     # weight = 2
+        #     # url = "بلاگ/"
 
-            [[languages.pt-br.menu.main]]
-            name = "پروژه‌ها"
-            weight = 3
-            url = "پروژه‌ها/"
+        #     [[languages.pt-br.menu.main]]
+        #     name = "پروژه‌ها"
+        #     weight = 3
+        #     url = "پروژه‌ها/"
 
-            [[languages.pt-br.menu.main]]
-            name = "تماس"
-            weight = 5
-            url = "تماس-با-من/"
+        #     [[languages.pt-br.menu.main]]
+        #     name = "تماس"
+        #     weight = 5
+        #     url = "تماس-با-من/"

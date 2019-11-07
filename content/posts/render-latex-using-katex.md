@@ -1,6 +1,6 @@
 +++
 date = "2019-03-20"
-title = "Dummy"
+title = "Dummy5"
 description = "Katex support demo"
 katex = true
 series = ["Theme", "Hugo"]
