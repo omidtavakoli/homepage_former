@@ -1,9 +1,9 @@
 +++
-date = "2019-03-20"
-title = "Dummy5"
-description = "Katex support demo"
+date = "2020-01-03"
+title = "Whats is callback function ?"
+description = "Whats is callback function"
 katex = true
-series = ["Theme", "Hugo"]
+series = ["functions"]
 +++
 
 Enable katex by adding `katex = "true"` to the [front matter](https://gohugo.io/content-management/front-matter/)  

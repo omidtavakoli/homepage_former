@@ -1,5 +1,5 @@
 +++ 
-date = "2019-10-29"
+date = "2020-01-01"
 title = "Who is Software Engineer"
 slug = "who-is-software-engineer" 
 tags = [

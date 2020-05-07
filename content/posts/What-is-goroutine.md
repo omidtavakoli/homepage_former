@@ -1,13 +1,12 @@
 +++
-date = "2014-04-02"
-title = "Dummy2"
-slug = "hugo-template-primer"
+date = "2020-01-02"
+title = "What is goroutine ?"
+slug = "What-is-goroutine"
 tags = [
     "go",
     "golang",
-    "templates",
-    "themes",
     "development",
+    "goroutine"
 ]
 categories = [
     "Development",
